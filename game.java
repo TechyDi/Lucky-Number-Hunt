@@ -29,6 +29,6 @@ public class game {
                     
                 }
 
-
+        sc.close();
         }
     }
